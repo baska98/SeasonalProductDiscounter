@@ -1,0 +1,2542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.112232030264817" branch-rate="0.117647058823529" lines-covered="89" lines-valid="793" branches-covered="8" branches-valid="68" complexity="207" version="0" timestamp="1690328396">
+  <sources>
+    <source>C:\Users\barba\</source>
+  </sources>
+  <packages>
+    <package name="CodeCool.SeasonalProductDiscounter" line-rate="0.0589022757697456" branch-rate="0.032258064516129" complexity="197">
+      <classes>
+        <class name="CodeCool.SeasonalProductDiscounter.Extensions.RandomExtensions" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Extensions\RandomExtensions.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="NextDouble" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="50" branch="false" />
+                <line number="7" hits="50" branch="false" />
+                <line number="8" hits="50" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="50" branch="false" />
+            <line number="7" hits="50" branch="false" />
+            <line number="8" hits="50" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Extensions.SeasonExtensions" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Extensions\SeasonExtensions.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="Shift" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Contains" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".cctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Discounts.ColorDiscount" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Discounts\ColorDiscount.cs" line-rate="0" branch-rate="0" complexity="5">
+          <methods>
+            <method name="get_Name" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Accepts" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToString" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Discounts.MonthlyDiscount" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Discounts\MonthlyDiscount.cs" line-rate="0" branch-rate="0" complexity="7">
+          <methods>
+            <method name="get_Name" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Accepts" signature="(...)" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToString" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Discounts.SeasonalDiscount" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Discounts\SeasonalDiscount.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_Name" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Accepts" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToString" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Offers.Offer" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Offers\Offer.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Product" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToString" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Products.PriceRange" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Products\PriceRange.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="get_Minimum" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="3" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Contains" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="5" hits="0" branch="true" condition-coverage="0% (0/2)" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+                <line number="5" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="6" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false" />
+            <line number="4" hits="0" branch="false" />
+            <line number="5" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="6" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Products.Product" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Products\Product.cs" line-rate="0.5" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="430" branch="false" />
+              </lines>
+            </method>
+            <method name="ToString" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0.428571428571429" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="50" branch="false" />
+                <line number="7" hits="50" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="50" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="430" branch="false" />
+            <line number="6" hits="50" branch="false" />
+            <line number="7" hits="50" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="50" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Transactions.Transaction" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Transactions\Transaction.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Transactions.TransactionsSimulatorSettings" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Transactions\TransactionsSimulatorSettings.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Date" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="3" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Model.Users.User" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Model\Users\User.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="3" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Authentication.AuthenticationService" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Authentication\AuthenticationService.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Authenticate" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Discounts.DiscounterService" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Discounts\DiscounterService.cs" line-rate="0" branch-rate="0" complexity="10">
+          <methods>
+            <method name="GetOffer" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="FindApplicableIDiscounts" signature="(...)" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="28" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="CalculateFinalPrice" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="45" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="SumDiscounts" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="51" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="28" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="45" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="51" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Discounts.Repository.DiscountRepository" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Discounts\Repository\DiscountRepository.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Discounts" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetDiscounts" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Logger.ConsoleLogger" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Logger\ConsoleLogger.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="LogMessage" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Logger.FileLogger" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Logger\FileLogger.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="LogMessage" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Logger.LoggerBase" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Logger\LoggerBase.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="LogInfo" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="LogError" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="CreateLogEntry" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Offers.OfferService" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Offers\OfferService.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="GetOffers" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Persistence.DatabaseManager" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Persistence\DatabaseManager.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="CreateTables" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Persistence.SqLiteConnector" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Persistence\SqliteConnector.cs" line-rate="0" branch-rate="1" complexity="5">
+          <methods>
+            <method name="GetPhysicalDbConnection" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetCommand" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ExecuteNonQuery" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="34" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ExecuteNonQuery" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="52" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Products.Browser.ProductBrowser" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Products\Browser\ProductBrowser.cs" line-rate="0" branch-rate="0" complexity="22">
+          <methods>
+            <method name="GetAll" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetByName" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetByColor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetBySeason" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetByPriceSmallerThan" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetByPriceGreaterThan" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetByPriceRange" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="49" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GroupByName" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GroupByColor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GroupBySeason" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="62" hits="0" branch="false" />
+                <line number="63" hits="0" branch="false" />
+                <line number="64" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GroupByPriceRange" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="69" hits="0" branch="false" />
+                <line number="70" hits="0" branch="false" />
+                <line number="72" hits="0" branch="false" />
+                <line number="73" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+                <line number="76" hits="0" branch="false" />
+                <line number="77" hits="0" branch="false" />
+                <line number="78" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="79" hits="0" branch="false" />
+                <line number="80" hits="0" branch="false" />
+                <line number="81" hits="0" branch="false" />
+                <line number="82" hits="0" branch="false" />
+                <line number="83" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="84" hits="0" branch="false" />
+                <line number="85" hits="0" branch="false" />
+                <line number="86" hits="0" branch="false" />
+                <line number="87" hits="0" branch="false" />
+                <line number="88" hits="0" branch="false" />
+                <line number="89" hits="0" branch="false" />
+                <line number="90" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetMinimumPrice" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="93" hits="0" branch="false" />
+                <line number="94" hits="0" branch="false" />
+                <line number="95" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetMaximumPrice" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="98" hits="0" branch="false" />
+                <line number="99" hits="0" branch="false" />
+                <line number="100" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="OrderByName" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="103" hits="0" branch="false" />
+                <line number="104" hits="0" branch="false" />
+                <line number="105" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="OrderByColor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="108" hits="0" branch="false" />
+                <line number="109" hits="0" branch="false" />
+                <line number="110" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="OrderBySeason" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="113" hits="0" branch="false" />
+                <line number="114" hits="0" branch="false" />
+                <line number="115" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="OrderByPrice" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="118" hits="0" branch="false" />
+                <line number="119" hits="0" branch="false" />
+                <line number="120" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="49" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="63" hits="0" branch="false" />
+            <line number="64" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="69" hits="0" branch="false" />
+            <line number="70" hits="0" branch="false" />
+            <line number="72" hits="0" branch="false" />
+            <line number="73" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+            <line number="76" hits="0" branch="false" />
+            <line number="77" hits="0" branch="false" />
+            <line number="78" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="79" hits="0" branch="false" />
+            <line number="80" hits="0" branch="false" />
+            <line number="81" hits="0" branch="false" />
+            <line number="82" hits="0" branch="false" />
+            <line number="83" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="84" hits="0" branch="false" />
+            <line number="85" hits="0" branch="false" />
+            <line number="86" hits="0" branch="false" />
+            <line number="87" hits="0" branch="false" />
+            <line number="88" hits="0" branch="false" />
+            <line number="89" hits="0" branch="false" />
+            <line number="90" hits="0" branch="false" />
+            <line number="93" hits="0" branch="false" />
+            <line number="94" hits="0" branch="false" />
+            <line number="95" hits="0" branch="false" />
+            <line number="98" hits="0" branch="false" />
+            <line number="99" hits="0" branch="false" />
+            <line number="100" hits="0" branch="false" />
+            <line number="103" hits="0" branch="false" />
+            <line number="104" hits="0" branch="false" />
+            <line number="105" hits="0" branch="false" />
+            <line number="108" hits="0" branch="false" />
+            <line number="109" hits="0" branch="false" />
+            <line number="110" hits="0" branch="false" />
+            <line number="113" hits="0" branch="false" />
+            <line number="114" hits="0" branch="false" />
+            <line number="115" hits="0" branch="false" />
+            <line number="118" hits="0" branch="false" />
+            <line number="119" hits="0" branch="false" />
+            <line number="120" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Products.Generator.RandomProductGenerator" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Products\Generator\RandomProductGenerator.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="get_Products" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="GetRandomColor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="41" hits="50" branch="false" />
+                <line number="42" hits="50" branch="false" />
+                <line number="43" hits="50" branch="false" />
+              </lines>
+            </method>
+            <method name="GetRandomName" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="46" hits="50" branch="false" />
+                <line number="47" hits="50" branch="false" />
+                <line number="48" hits="50" branch="false" />
+              </lines>
+            </method>
+            <method name="GetRandomSeason" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="50" branch="false" />
+                <line number="52" hits="50" branch="false" />
+                <line number="53" hits="50" branch="false" />
+              </lines>
+            </method>
+            <method name="GetRandomPrice" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="56" hits="50" branch="false" />
+                <line number="57" hits="50" branch="false" />
+                <line number="58" hits="50" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="6" branch="false" />
+                <line number="26" hits="6" branch="false" />
+                <line number="27" hits="6" branch="false" />
+                <line number="28" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name=".cctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="1" branch="false" />
+                <line number="10" hits="1" branch="false" />
+                <line number="11" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="GenerateRandomProducts" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="31" hits="6" branch="false" />
+                <line number="32" hits="112" branch="true" condition-coverage="100% (2/2)" />
+                <line number="33" hits="50" branch="false" />
+                <line number="34" hits="50" branch="false" />
+                <line number="35" hits="50" branch="false" />
+                <line number="36" hits="50" branch="false" />
+                <line number="37" hits="50" branch="false" />
+                <line number="38" hits="6" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="false" />
+            <line number="10" hits="1" branch="false" />
+            <line number="11" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="23" hits="6" branch="false" />
+            <line number="25" hits="6" branch="false" />
+            <line number="26" hits="6" branch="false" />
+            <line number="27" hits="6" branch="false" />
+            <line number="28" hits="6" branch="false" />
+            <line number="31" hits="6" branch="false" />
+            <line number="32" hits="112" branch="true" condition-coverage="100% (2/2)" />
+            <line number="33" hits="50" branch="false" />
+            <line number="34" hits="50" branch="false" />
+            <line number="35" hits="50" branch="false" />
+            <line number="36" hits="50" branch="false" />
+            <line number="37" hits="50" branch="false" />
+            <line number="38" hits="6" branch="false" />
+            <line number="41" hits="50" branch="false" />
+            <line number="42" hits="50" branch="false" />
+            <line number="43" hits="50" branch="false" />
+            <line number="46" hits="50" branch="false" />
+            <line number="47" hits="50" branch="false" />
+            <line number="48" hits="50" branch="false" />
+            <line number="51" hits="50" branch="false" />
+            <line number="52" hits="50" branch="false" />
+            <line number="53" hits="50" branch="false" />
+            <line number="56" hits="50" branch="false" />
+            <line number="57" hits="50" branch="false" />
+            <line number="58" hits="50" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Products.Repository.ProductRepository" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Products\Repository\ProductRepository.cs" line-rate="0" branch-rate="0" complexity="6">
+          <methods>
+            <method name="get_AvailableProducts" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAvailableProducts" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="32" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="33" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Add" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="47" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="SetProductAsSold" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="53" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="32" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="33" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Products.Statistics.ProductStatistics" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Products\Statistics\ProductStatistics.cs" line-rate="0" branch-rate="1" complexity="13">
+          <methods>
+            <method name="TotalProducts" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetMostExpensive" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetCheapest" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAveragePrice" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAveragePricesByName" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAveragePricesByColor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAveragePricesBySeason" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAveragePricesByPriceRange" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetCountByName" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="64" hits="0" branch="false" />
+                <line number="65" hits="0" branch="false" />
+                <line number="66" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetCountByColor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="71" hits="0" branch="false" />
+                <line number="72" hits="0" branch="false" />
+                <line number="73" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+                <line number="75" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetCountBySeason" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="78" hits="0" branch="false" />
+                <line number="79" hits="0" branch="false" />
+                <line number="80" hits="0" branch="false" />
+                <line number="81" hits="0" branch="false" />
+                <line number="82" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetCountByPriceRange" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="85" hits="0" branch="false" />
+                <line number="86" hits="0" branch="false" />
+                <line number="88" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="64" hits="0" branch="false" />
+            <line number="65" hits="0" branch="false" />
+            <line number="66" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="71" hits="0" branch="false" />
+            <line number="72" hits="0" branch="false" />
+            <line number="73" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+            <line number="75" hits="0" branch="false" />
+            <line number="78" hits="0" branch="false" />
+            <line number="79" hits="0" branch="false" />
+            <line number="80" hits="0" branch="false" />
+            <line number="81" hits="0" branch="false" />
+            <line number="82" hits="0" branch="false" />
+            <line number="85" hits="0" branch="false" />
+            <line number="86" hits="0" branch="false" />
+            <line number="88" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Transactions.Repository.TransactionRepository" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Transactions\Repository\TransactionRepository.cs" line-rate="0" branch-rate="0" complexity="7">
+          <methods>
+            <method name="Add" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAll" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+                <line number="51" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+                <line number="63" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToUser" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="66" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="69" hits="0" branch="false" />
+                <line number="70" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToProduct" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="73" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+                <line number="76" hits="0" branch="false" />
+                <line number="78" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToTransaction" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="81" hits="0" branch="false" />
+                <line number="82" hits="0" branch="false" />
+                <line number="84" hits="0" branch="false" />
+                <line number="85" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="63" hits="0" branch="false" />
+            <line number="66" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="69" hits="0" branch="false" />
+            <line number="70" hits="0" branch="false" />
+            <line number="73" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+            <line number="76" hits="0" branch="false" />
+            <line number="78" hits="0" branch="false" />
+            <line number="81" hits="0" branch="false" />
+            <line number="82" hits="0" branch="false" />
+            <line number="84" hits="0" branch="false" />
+            <line number="85" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Transactions.Simulator.TransactionsSimulator" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Transactions\Simulator\TransactionsSimulator.cs" line-rate="0" branch-rate="0" complexity="21">
+          <methods>
+            <method name="Run" signature="(...)" line-rate="0" branch-rate="0" complexity="8">
+              <lines>
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="46" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="56" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="57" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+                <line number="65" hits="0" branch="false" />
+                <line number="68" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="69" hits="0" branch="false" />
+                <line number="70" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+                <line number="77" hits="0" branch="false" />
+                <line number="80" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="81" hits="0" branch="false" />
+                <line number="82" hits="0" branch="false" />
+                <line number="83" hits="0" branch="false" />
+                <line number="84" hits="0" branch="false" />
+                <line number="85" hits="0" branch="false" />
+                <line number="86" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetRandomUser" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="90" hits="0" branch="false" />
+                <line number="91" hits="0" branch="false" />
+                <line number="92" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetUserFromRepo" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="95" hits="0" branch="false" />
+                <line number="96" hits="0" branch="false" />
+                <line number="97" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="AuthUser" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="100" hits="0" branch="false" />
+                <line number="101" hits="0" branch="false" />
+                <line number="102" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="RegisterUser" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="105" hits="0" branch="false" />
+                <line number="106" hits="0" branch="false" />
+                <line number="107" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="SelectProduct" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="110" hits="0" branch="false" />
+                <line number="111" hits="0" branch="false" />
+                <line number="112" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetRandomProduct" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="115" hits="0" branch="false" />
+                <line number="116" hits="0" branch="false" />
+                <line number="118" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="119" hits="0" branch="false" />
+                <line number="120" hits="0" branch="false" />
+                <line number="123" hits="0" branch="false" />
+                <line number="124" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetOffer" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="127" hits="0" branch="false" />
+                <line number="128" hits="0" branch="false" />
+                <line number="129" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="CreateTransaction" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="132" hits="0" branch="false" />
+                <line number="133" hits="0" branch="false" />
+                <line number="134" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="SaveTransaction" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="137" hits="0" branch="false" />
+                <line number="138" hits="0" branch="false" />
+                <line number="139" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="SetProductAsSold" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="142" hits="0" branch="false" />
+                <line number="143" hits="0" branch="false" />
+                <line number="144" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".cctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="46" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="56" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="57" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="65" hits="0" branch="false" />
+            <line number="68" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="69" hits="0" branch="false" />
+            <line number="70" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+            <line number="77" hits="0" branch="false" />
+            <line number="80" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="81" hits="0" branch="false" />
+            <line number="82" hits="0" branch="false" />
+            <line number="83" hits="0" branch="false" />
+            <line number="84" hits="0" branch="false" />
+            <line number="85" hits="0" branch="false" />
+            <line number="86" hits="0" branch="false" />
+            <line number="90" hits="0" branch="false" />
+            <line number="91" hits="0" branch="false" />
+            <line number="92" hits="0" branch="false" />
+            <line number="95" hits="0" branch="false" />
+            <line number="96" hits="0" branch="false" />
+            <line number="97" hits="0" branch="false" />
+            <line number="100" hits="0" branch="false" />
+            <line number="101" hits="0" branch="false" />
+            <line number="102" hits="0" branch="false" />
+            <line number="105" hits="0" branch="false" />
+            <line number="106" hits="0" branch="false" />
+            <line number="107" hits="0" branch="false" />
+            <line number="110" hits="0" branch="false" />
+            <line number="111" hits="0" branch="false" />
+            <line number="112" hits="0" branch="false" />
+            <line number="115" hits="0" branch="false" />
+            <line number="116" hits="0" branch="false" />
+            <line number="118" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="119" hits="0" branch="false" />
+            <line number="120" hits="0" branch="false" />
+            <line number="123" hits="0" branch="false" />
+            <line number="124" hits="0" branch="false" />
+            <line number="127" hits="0" branch="false" />
+            <line number="128" hits="0" branch="false" />
+            <line number="129" hits="0" branch="false" />
+            <line number="132" hits="0" branch="false" />
+            <line number="133" hits="0" branch="false" />
+            <line number="134" hits="0" branch="false" />
+            <line number="137" hits="0" branch="false" />
+            <line number="138" hits="0" branch="false" />
+            <line number="139" hits="0" branch="false" />
+            <line number="142" hits="0" branch="false" />
+            <line number="143" hits="0" branch="false" />
+            <line number="144" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Service.Users.UserRepository" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Service\Users\UserRepository.cs" line-rate="0" branch-rate="0" complexity="5">
+          <methods>
+            <method name="GetAll" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="26" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Add" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="42" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Get" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="26" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.Authentication.UserAuthenticator" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\Authentication\UserAuthenticator.cs" line-rate="0" branch-rate="0" complexity="8">
+          <methods>
+            <method name="GetUser" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetTextInput" signature="(...)" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="27" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="31" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Authenticate" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="27" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="31" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.Factory.OffersUiFactory" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\Factory\OffersUiFactory.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_UiName" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Create" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.Factory.ProductsUiFactory" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\Factory\ProductsUiFactory.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_UiName" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Create" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.Factory.StatisticsUiFactory" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\Factory\StatisticsUiFactory.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_UiName" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Create" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.OffersUi" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\OffersUi.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="Run" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="PrintOffers" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.ProductsUi" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\ProductsUi.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="Run" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="PrintProducts" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.Selector.UiSelector" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\Selector\UiSelector.cs" line-rate="0" branch-rate="0" complexity="9">
+          <methods>
+            <method name="Select" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="DisplayMenu" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetIntInput" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="43" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="46" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="43" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="46" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.StatisticsUi" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\StatisticsUi.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Run" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Ui.UiBase" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Ui\UiBase.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_RequireAuthentication" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="DisplayTitle" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounter.Utilities.TypeConverters" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Utilities\TypeConverters.cs" line-rate="0" branch-rate="0" complexity="7">
+          <methods>
+            <method name="GetColorEnum" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetSeasonEnum" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToInt" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToDouble" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ToString" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="12" hits="0" branch="true" condition-coverage="0% (0/2)" />
+              </lines>
+            </method>
+            <method name="ToDateTime" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="13" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Program" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounter\Program.cs" line-rate="0" branch-rate="0" complexity="5">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="InitializeDatabase" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="51" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="RunSimulation" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+                <line number="63" hits="0" branch="false" />
+                <line number="65" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="69" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".cctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="63" hits="0" branch="false" />
+            <line number="65" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="69" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CodeCool.SeasonalProductDiscounterTest" line-rate="0.978260869565217" branch-rate="1" complexity="10">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\barba\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodeCool.SeasonalProductDiscounterTest.RandomProductGeneratorTest" filename="C:\Users\barba\Desktop\Codecool\Csharp\SOLID\seasonal-product-discounter-4-1q2023-csharp-baska98\CodeCool.SeasonalProductDiscounterTest\RandomProductGeneratorTest.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="ReturnsZeroProducts" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ReturnsCorrectNumberOfProducts" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ProductPropertiesAreSet" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="30" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="34" hits="23" branch="true" condition-coverage="100% (2/2)" />
+                <line number="35" hits="10" branch="false" />
+                <line number="36" hits="10" branch="false" />
+                <line number="37" hits="10" branch="false" />
+                <line number="38" hits="10" branch="false" />
+                <line number="39" hits="10" branch="false" />
+                <line number="40" hits="10" branch="false" />
+                <line number="41" hits="20" branch="false" />
+                <line number="42" hits="10" branch="false" />
+                <line number="43" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ProductIdsAreDifferent" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="47" hits="1" branch="false" />
+                <line number="48" hits="1" branch="false" />
+                <line number="49" hits="1" branch="false" />
+                <line number="51" hits="11" branch="false" />
+                <line number="52" hits="1" branch="false" />
+                <line number="53" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ProductNameContainsColor" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="57" hits="1" branch="false" />
+                <line number="58" hits="1" branch="false" />
+                <line number="59" hits="1" branch="false" />
+                <line number="61" hits="23" branch="true" condition-coverage="100% (2/2)" />
+                <line number="62" hits="10" branch="false" />
+                <line number="63" hits="10" branch="false" />
+                <line number="64" hits="10" branch="false" />
+                <line number="65" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ProductPriceIsWithinRange" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="69" hits="1" branch="false" />
+                <line number="70" hits="1" branch="false" />
+                <line number="71" hits="1" branch="false" />
+                <line number="73" hits="23" branch="true" condition-coverage="100% (2/2)" />
+                <line number="74" hits="10" branch="false" />
+                <line number="75" hits="10" branch="false" />
+                <line number="76" hits="10" branch="false" />
+                <line number="77" hits="10" branch="false" />
+                <line number="78" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="34" hits="23" branch="true" condition-coverage="100% (2/2)" />
+            <line number="35" hits="10" branch="false" />
+            <line number="36" hits="10" branch="false" />
+            <line number="37" hits="10" branch="false" />
+            <line number="38" hits="10" branch="false" />
+            <line number="39" hits="10" branch="false" />
+            <line number="40" hits="10" branch="false" />
+            <line number="41" hits="20" branch="false" />
+            <line number="42" hits="10" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="48" hits="1" branch="false" />
+            <line number="49" hits="1" branch="false" />
+            <line number="51" hits="11" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="57" hits="1" branch="false" />
+            <line number="58" hits="1" branch="false" />
+            <line number="59" hits="1" branch="false" />
+            <line number="61" hits="23" branch="true" condition-coverage="100% (2/2)" />
+            <line number="62" hits="10" branch="false" />
+            <line number="63" hits="10" branch="false" />
+            <line number="64" hits="10" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="69" hits="1" branch="false" />
+            <line number="70" hits="1" branch="false" />
+            <line number="71" hits="1" branch="false" />
+            <line number="73" hits="23" branch="true" condition-coverage="100% (2/2)" />
+            <line number="74" hits="10" branch="false" />
+            <line number="75" hits="10" branch="false" />
+            <line number="76" hits="10" branch="false" />
+            <line number="77" hits="10" branch="false" />
+            <line number="78" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

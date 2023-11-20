@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CodeCool.SeasonalProductDiscounter",
+    "\\CodeCool.SeasonalProductDiscounter\\Model",
+    "\\CodeCool.SeasonalProductDiscounter\\Model\\Transactions",
+    "\\CodeCool.SeasonalProductDiscounter\\Service",
+    "\\CodeCool.SeasonalProductDiscounter\\Service\\Products",
+    "\\CodeCool.SeasonalProductDiscounter\\Service\\Products\\Repository",
+    "\\CodeCool.SeasonalProductDiscounter\\Service\\Transactions",
+    "\\CodeCool.SeasonalProductDiscounter\\Service\\Transactions\\Repository",
+    "\\CodeCool.SeasonalProductDiscounter\\Service\\Users"
+  ],
+  "SelectedNode": "\\CodeCool.SeasonalProductDiscounter\\Service\\Transactions\\Repository\\TransactionRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
